@@ -1,10 +1,15 @@
-#! /usr/bin/env python3
-
-# 
+#!/usr/bin/python 3
+# ############################################################################
+# Program name: escape the castle 
+# Author: Sherlockpwns
+# State: works
+# Description: can you escape the catle in this text based game with multiple choices.
+# ############################################################################
 
 #  Things to do
-# 1. add some colour
-# 2.
+# 1. add some colour on diffren things to enchnage user experince 
+# 2. generate a loop wher eyou can play again rather than having to exit the program 
+
 
 import time
 import random
